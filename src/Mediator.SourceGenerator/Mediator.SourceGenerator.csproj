@@ -45,6 +45,7 @@
     <PackageReference Include="Microsoft.CodeAnalysis.Common" PrivateAssets="all" />
     <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" PrivateAssets="all" />
     <PackageReference Include="Microsoft.CSharp" PrivateAssets="all" />
+    <PackageReference Include="System.Text.Json" />
   </ItemGroup>
 
 </Project>
